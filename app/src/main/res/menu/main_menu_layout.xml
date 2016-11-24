@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_reset"
+        android:title="@string/reset"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menu_sort"
+        android:title="@string/sort"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/fast_sort"
+        android:title="@string/fast_sort"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/heap_sort"
+        android:title="@string/heap_sort"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/merge_sort"
+        android:title="@string/merge_sort"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/insert_sort"
+        android:title="@string/insert_sort"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/bubble_sort"
+        android:title="@string/bubble_sort"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/select_sort"
+        android:title="@string/select_sort"
+        app:showAsAction="never" />
+</menu>

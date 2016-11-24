@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">JYSort</string>
+    <string name="random">随机</string>
+    <string name="reset">重置</string>
+    <string name="sort">排序</string>
+    <string name="sorted">已经排序，请重置后再排序！</string>
+
+    <string name="time_tip">耗时(毫秒)</string>
+    <string name="time_default">00:00:000</string>
+
+
+    <string name="fast_sort">快速排序</string>
+    <string name="heap_sort">堆排序</string>
+    <string name="merge_sort">归并排序</string>
+    <string name="insert_sort">插入排序</string>
+    <string name="bubble_sort">冒泡排序</string>
+    <string name="select_sort">选择排序</string>
+
+
+    <string name="best_time">最好时间</string>
+    <string name="average_time">平均时间</string>
+    <string name="worst_time">最坏时间</string>
+    <string name="extra_space">额外空间</string>
+    <string name="stability">稳定性</string>
+
+    <string name="default_best_time">O(nlogn)</string>
+    <string name="default_average_time">O(nlogn)</string>
+    <string name="default_worst_time">O(n^2)</string>
+    <string name="default_extra_space">O(logn)</string>
+    <string name="default_stability">不稳定</string>
+
+    <string name="nlogn">O(nlogn)</string>
+    <string name="logn">O(logn)</string>
+    <string name="n2">O(n^2)</string>
+    <string name="n">O(n)</string>
+    <string name="one">O(1)</string>
+    <string name="stable">稳定</string>
+    <string name="unstable">不稳定</string>
+
+
+
+</resources>
