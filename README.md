@@ -16,7 +16,7 @@
 ## 界面
 
 ![main](http://img.godjiyi.cn/jysorthome360.png)
-<img alt="logo" width="203" height="360" src="http://img.godjiyi.cn/jysortwelcome.gif" alt="jiyiren">
+<img alt="logo" width="203" height="360" src="http://img.godjiyi.cn/jysortwelcome.gif">
 
 ## 设计思路
 
@@ -41,27 +41,27 @@
 
 ## 快速排序
 
-![fast](http://img.godjiyi.cn/jysortfast.gif)
+<img alt="logo" width="203" height="360" src="http://img.godjiyi.cn/jysortfast.gif" alt="fast">
 
 ## 堆排序
 
-![heap](http://img.godjiyi.cn/jysortheap.gif)
+<img alt="logo" width="203" height="360" src="http://img.godjiyi.cn/jysortheap.gif" alt="heap">
 
 ## 归并排序
 
-![merge](http://img.godjiyi.cn/jysortmerge.gif)
+<img alt="logo" width="203" height="360" src="http://img.godjiyi.cn/jysortmerge.gif" alt="merge">
 
 ## 插入排序
 
-![insert](http://img.godjiyi.cn/jysortinsert.gif)
+<img alt="logo" width="203" height="360" src="http://img.godjiyi.cn/jysortinsert.gif" alt="insert">
 
 ## 冒泡排序
 
-![bubble](http://img.godjiyi.cn/jysortbubble.gif)
+<img alt="logo" width="203" height="360" src="http://img.godjiyi.cn/jysortbubble.gif" alt="bubble">
 
 ## 选择排序
 
-![select](http://img.godjiyi.cn/jysortselect.gif)
+<img alt="logo" width="203" height="360" src="http://img.godjiyi.cn/jysortselect.gif" alt="select">
 
 ## 关于
 
