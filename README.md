@@ -16,8 +16,7 @@
 ## 界面
 
 ![main](http://img.godjiyi.cn/jysorthome360.png)
-![maingif](http://img.godjiyi.cn/jysortwelcome.gif)
-
+<img alt="logo" width="203" height="360" src="http://img.godjiyi.cn/jysortwelcome.gif" alt="jiyiren">
 
 ## 设计思路
 
