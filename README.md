@@ -15,8 +15,8 @@
 
 ## 界面
 
-![main](http://7xknpe.com1.z0.glb.clouddn.com/jysorthome360.png)
-![maingif](http://7xknpe.com1.z0.glb.clouddn.com/jysortwelcome.gif)
+![main](http://img.godjiyi.cn/jysorthome360.png)
+![maingif](http://img.godjiyi.cn/jysortwelcome.gif)
 
 
 ## 设计思路
@@ -42,27 +42,27 @@
 
 ## 快速排序
 
-![fast](http://7xknpe.com1.z0.glb.clouddn.com/jysortfast.gif)
+![fast](http://img.godjiyi.cn/jysortfast.gif)
 
 ## 堆排序
 
-![heap](http://7xknpe.com1.z0.glb.clouddn.com/jysortheap.gif)
+![heap](http://img.godjiyi.cn/jysortheap.gif)
 
 ## 归并排序
 
-![merge](http://7xknpe.com1.z0.glb.clouddn.com/jysortmerge.gif)
+![merge](http://img.godjiyi.cn/jysortmerge.gif)
 
 ## 插入排序
 
-![insert](http://7xknpe.com1.z0.glb.clouddn.com/jysortinsert.gif)
+![insert](http://img.godjiyi.cn/jysortinsert.gif)
 
 ## 冒泡排序
 
-![bubble](http://7xknpe.com1.z0.glb.clouddn.com/jysortbubble.gif)
+![bubble](http://img.godjiyi.cn/jysortbubble.gif)
 
 ## 选择排序
 
-![select](http://7xknpe.com1.z0.glb.clouddn.com/jysortselect.gif)
+![select](http://img.godjiyi.cn/jysortselect.gif)
 
 ## 关于
 
